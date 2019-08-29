@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@appfield/firebase-authentication": [
+        "dist/appfield/firebase-authentication"
+      ],
+      "@appfield/firebase-authentication/*": [
+        "dist/appfield/firebase-authentication/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
