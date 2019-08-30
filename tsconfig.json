@@ -22,7 +22,7 @@
       "@appfield/firebase-authentication": [
         "dist/appfield/firebase-authentication"
       ],
-      "@appfield/firebase-authentication/*": [
+    "@appfield/firebase-authentication/*": [
         "dist/appfield/firebase-authentication/*"
       ]
     }
